@@ -1,5 +1,3 @@
-# Diwali sales data analytics project using Python
-
 # Objective:
 Increase revenue for the company.
 Improve customer experience by analyzing sales data.
